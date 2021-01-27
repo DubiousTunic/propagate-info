@@ -1,7 +1,6 @@
 # torrentmail.us
-send and receive mail using BitTorrent
+private BitTorrent tracker using a decentralized ledger
 
-There is an AJAX GET request in the index.html. Modify it to your own custom JSONblob URL (jsonblob.com). That is your mailing address. shabbat shalom
-
+modify jsonBlobAddy to a jsonblob.com ID will produce your own private tracker
 
 
